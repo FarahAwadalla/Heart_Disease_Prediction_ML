@@ -1,0 +1,25 @@
+Model Evaluation Results
+
+Logistic Regression:
+Accuracy: 0.90
+Precision: 0.84
+Recall: 0.96
+F1-score: 0.90
+
+Decision Tree:
+Accuracy: 0.75
+Precision: 0.69
+Recall: 0.82
+F1-score: 0.75
+
+Random Forest:
+Accuracy: 0.88
+Precision: 0.84
+Recall: 0.93
+F1-score: 0.88
+
+SVM (Best Model):
+Accuracy: 0.90
+Precision: 0.89
+Recall: 0.89
+F1-score: 0.89
